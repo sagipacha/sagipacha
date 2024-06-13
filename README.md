@@ -13,10 +13,6 @@ My core values include continuous learning, excellence, and integrity. I advocat
 - **Artificial Intelligence:** Enthusiastic about the integration of AI in everyday applications to make them smarter and more intuitive.
 - **Cybersecurity:** Dedicated to understanding and implementing robust security measures to protect applications and data from cyber threats.
 
-## Currently Learning
-- **Advanced React and Next.js:** Enhancing my skills in modern front-end development.
-- **Node.js and Express:** Building robust back-end systems and APIs.
-
 ## Collaboration
 I am open to collaborating on innovative and impactful projects that push the boundaries of technology.
 If you have an exciting project or idea, let's connect and bring it to life together!
